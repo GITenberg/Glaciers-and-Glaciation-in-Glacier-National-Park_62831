@@ -1,0 +1,26 @@
+_repo: Glaciers-and-Glaciation-in-Glacier-National-Park_62831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dyson, James L. (James Lindsay)
+    birthdate: 1912
+    deathdate: 1967
+    gutenberg_agent_id: '50650'
+    url: http://www.gutenberg.org/2009/agents/50650
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glacial landforms -- Montana -- Glacier National Park'
+- !lcsh 'Glacier National Park (Mont.) -- Guidebooks'
+- !lcc 'GB'
+- !lcsh 'Glaciers -- Montana -- Glacier National Park'
+- GITenberg
+title: Glaciers and Glaciation in Glacier National Park
+url: http://www.gutenberg.org/ebooks/62831
