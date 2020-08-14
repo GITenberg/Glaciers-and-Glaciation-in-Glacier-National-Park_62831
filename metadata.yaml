@@ -1,5 +1,8 @@
 _repo: Glaciers-and-Glaciation-in-Glacier-National-Park_62831
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62831-h/images/cover.jpg
 creator:
   author:
     agent_name: Dyson, James L. (James Lindsay)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '50650'
     url: http://www.gutenberg.org/2009/agents/50650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62831#Glaciers-and-Glaciation-in-Glacier-National-Park
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
